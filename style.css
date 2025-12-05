@@ -58,7 +58,7 @@ html {
 body {
   font-family: serif, Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  background-color: #324DE6;
+  background-color: #e7b67b;
 }
 
 .side-note {
@@ -79,6 +79,7 @@ code {
 
 h1, h2 {
   font-family: 'Playfair Display', serif;
+  
 }
 
 p {
@@ -91,4 +92,9 @@ p {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.highlight {
+  background-color: white; /* Example yellow color */
+  padding: 2px 5px; /* Adds a small padding around the text */
 }
